@@ -5,7 +5,7 @@ Volatility and Option Skew Mispricings refer to situations where options are pri
 vol_skew_analysis/\
 │\
 ├── data/                       
-│ 
+│\
 ├── notebooks/ 
 |\
 ├── src/                        
