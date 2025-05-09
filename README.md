@@ -3,9 +3,9 @@ Volatility and Option Skew Mispricings refer to situations where options are pri
 
 vol_skew_analysis/
 │\
-├── data/                        # Folder to store raw or processed data (optional CSVs)
+├── data/\                        # Folder to store raw or processed data (optional CSVs)
 │\
-├── notebooks/                  # Jupyter notebooks for exploration/visualization (optional)
+├── notebooks/\                  # Jupyter notebooks for exploration/visualization (optional)
 │\
 ├── src/                        # Core logic (modular Python code)
 │   ├── __init__.py
