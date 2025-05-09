@@ -3,11 +3,11 @@ Volatility and Option Skew Mispricings refer to situations where options are pri
 
 #### Project Structure
 vol_skew_analysis/\
-│
+│\
 ├── data/                       
 │ 
 ├── notebooks/ 
-|
+|\
 ├── src/                        
 │   ├── __init__.py\
 │   ├── fetch_data.py           
