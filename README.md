@@ -3,20 +3,20 @@ Volatility and Option Skew Mispricings refer to situations where options are pri
 
 vol_skew_analysis/\
 │
-├── data/                        # Folder to store raw or processed data (optional CSVs)
+├── data/                        
 │\
-├── notebooks/\                  # Jupyter notebooks for exploration/visualization (optional)
+├── notebooks/\                   
 │\
-├── src/                        # Core logic (modular Python code)
+├── src/                        
 │   ├── __init__.py
-│   ├── fetch_data.py           # Fetch options and historical price data from yfinance
-│   ├── bs_model.py             # Black-Scholes pricing + implied volatility solver
-│   ├── garch_model.py          # GARCH volatility forecasting
-│   ├── surface_builder.py      # Construct IV surface and put-call skew matrix
-│   ├── plot_surface.py         # Plotting 3D surfaces using Plotly
+│   ├── fetch_data.py            
+│   ├── bs_model.py              
+│   ├── garch_model.py          
+│   ├── surface_builder.py       
+│   ├── plot_surface.py          
 │\
-├── main.py                     # Entry point that ties everything together
+├── main.py                     
 │\
-├── requirements.txt            # Required Python libraries
+├── requirements.txt             
 │\
-└── README.md                   # Project documentation
+└── README.md                   
