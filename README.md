@@ -18,6 +18,6 @@ vol_skew_analysis/\
 │\
 ├── main.py                     
 │\
-├── requirements.txt             
+├── [requirements.txt](https://github.com/manuelmusngi/Volatility-and-Option-Skew-Mispricing-Analysis/blob/main/requirements.txt)            
 │\
 └── README.md                   
