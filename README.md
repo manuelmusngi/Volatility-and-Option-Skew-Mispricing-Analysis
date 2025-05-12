@@ -8,7 +8,7 @@ vol_skew_analysis/\
 │\
 ├── notebooks/                  
 │\
-├── src/                        
+├── src/\                        
 │   ├── __init__.py
 │   ├── fetch_data.py            
 │   ├── bs_model.py              
