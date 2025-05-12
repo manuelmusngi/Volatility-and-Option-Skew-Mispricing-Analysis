@@ -14,7 +14,7 @@ vol_skew_analysis/\
 │   ├── [bs_model.py](https://github.com/manuelmusngi/Volatility-and-Option-Skew-Mispricing-Analysis/blob/main/src/bs_model.py)              
 │   ├── [garch_model.py](https://github.com/manuelmusngi/Volatility-and-Option-Skew-Mispricing-Analysis/blob/main/src/garch_model.py)          
 │   ├── [surface_builder.py](https://github.com/manuelmusngi/Volatility-and-Option-Skew-Mispricing-Analysis/blob/main/src/surface_builder.py)       
-│   ├── plot_surface.py          
+│   ├── [plot_surface.py](https://github.com/manuelmusngi/Volatility-and-Option-Skew-Mispricing-Analysis/blob/main/src/plot_surface.py)          
 │\
 ├── [main.py](https://github.com/manuelmusngi/Volatility-and-Option-Skew-Mispricing-Analysis/blob/main/main.py)                     
 │\
