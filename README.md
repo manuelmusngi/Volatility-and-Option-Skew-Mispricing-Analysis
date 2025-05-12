@@ -10,7 +10,7 @@ vol_skew_analysis/\
 │\
 ├── src/                       
 │   ├── [__init__.py](https://github.com/manuelmusngi/Volatility-and-Option-Skew-Mispricing-Analysis/blob/main/src/init.py)\
-│   ├── fetch_data.py            
+│   ├── [fetch_data.py](https://github.com/manuelmusngi/Volatility-and-Option-Skew-Mispricing-Analysis/blob/main/src/fetch_data.py)            
 │   ├── bs_model.py              
 │   ├── garch_model.py          
 │   ├── surface_builder.py       
