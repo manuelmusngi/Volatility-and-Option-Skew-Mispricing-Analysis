@@ -8,8 +8,8 @@ vol_skew_analysis/\
 │\
 ├── notebooks/                  
 │\
-├── src/\                        
-│   ├── __init__.py
+├── src/                       
+│   ├── __init__.py\
 │   ├── fetch_data.py            
 │   ├── bs_model.py              
 │   ├── garch_model.py          
