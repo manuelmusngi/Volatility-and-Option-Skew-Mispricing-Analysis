@@ -24,6 +24,8 @@ vol_skew_analysis/\
 
 #### References
 - [Asymmetric Volatility Risk: Evidence from Option Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2325380)
+- [A Non-Gaussian Option Pricing Model with Skew](https://arxiv.org/abs/cond-mat/0403022)
+- [Smile from the Past: A General Option Pricing Framework with Multiple Volatility and Leverage Components](https://arxiv.org/abs/1404.3555)
 
 #### License
 This project is licensed under the [MIT License](https://github.com/manuelmusngi/regime_switching_models/edit/main/LICENSE).
