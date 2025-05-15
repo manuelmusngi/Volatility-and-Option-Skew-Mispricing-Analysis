@@ -22,6 +22,9 @@ vol_skew_analysis/\
 │\
 └── README.md                   
 
+#### References
+- [Asymmetric Volatility Risk: Evidence from Option Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2325380)
+
 #### License
 This project is licensed under the [MIT License](https://github.com/manuelmusngi/regime_switching_models/edit/main/LICENSE).
 
